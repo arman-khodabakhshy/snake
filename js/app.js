@@ -13,7 +13,7 @@ let scr=0 ;
 let speed = 2;
  
 let highestScore = localStorage.getItem('highest__score');
-highestScore = 8751;
+highestScore = 0;
 let directionPermission = true;
 
 function changeDirection(e) {
